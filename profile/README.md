@@ -22,7 +22,7 @@ It operates under a single premise:
 
 ## Intent
 
-This space serves as a library of experiments, tools, and ideas, entirely built in ***Go / Golang***.
+This space serves as a library of experiments, tools, and ideas, built entirely in ***Go***.
 
 My intention for The Root Spell Project is to one day have built every tool for my own custom workflow, like my own advanced package manager like brew, and my own collaborative code editing functionalities like replit, but on the terminal.
 
