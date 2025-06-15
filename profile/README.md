@@ -6,8 +6,8 @@
 </p>
 
 
-> *"_Any sufficiently advanced **technology** is **indistinguishable** from **magic**._"*  
-> — Arthur C. Clarke
+> *"_The world is **full** of **magic**, patiently waiting for our senses to grow **sharper**._"*
+> - Willian B. Yeats
 
 ---
 
