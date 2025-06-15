@@ -6,8 +6,8 @@
 </p>
 
 
-> *"_The world is **full** of **magic**, patiently waiting for our senses to grow **sharper**._"*
-> - Willian B. Yeats
+> *"_The world is **full** of **magic**, patiently waiting for our senses to grow **sharper**._"*  
+> _-_ Willian B. Yeats 
 
 ---
 
