@@ -27,13 +27,13 @@ My intention for The Root Spell Project is to one day have built every tool for 
 #### Currently In Development
 
 - [ ] **Crows**  
-       ‣ _What it does:_ Terminal based chatting platform
+       ‣ _What it does:_ Terminal based chatting platform  
        ‣ _Inspired by:_ `me`
 
 #### Future Plans
 
 - [ ] **Korok**  
-       ‣ _What it does:_ Tracks changes across files
+       ‣ _What it does:_ Tracks changes across files  
        ‣ _Inspired by:_ `git`
 
 ---
