@@ -11,7 +11,7 @@
 
 ## Overview
 
-It operates under a single premise:
+It operates under a single premise:  
 **Magic Already Exists.** It's just in the form of science, and people tend to find effort boring.
 
 **The Root Spell Project** is a personal initiative exploring low-level Computer Science. As I study **magic** I'll develop my own, which will be published here as open source projects.
